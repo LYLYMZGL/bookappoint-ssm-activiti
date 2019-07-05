@@ -1,4 +1,4 @@
-首页为:http://localhost:8080/BookAppoint/students/login
+首页为:http://localhost:8080/项目名/students/login
 
 数据库文件：<br/>
 ```sql
